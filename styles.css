@@ -1,0 +1,53 @@
+/* Navigation Bar Styles */
+.main-nav {
+    background-color: #333;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.main-nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.main-nav ul li {
+    display: inline;
+    margin-right: 20px; /* Margin */
+}
+
+.main-nav a {
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+/* Sections */
+.section-home {
+    background-image: url('https://images.pexels.com/photos/14936128/pexels-photo-14936128.jpeg?cs=srgb&dl=pexels-ann-h-14936128.jpg&fm=jpg');
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.section-about {
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+.section-work {
+    background-image: url('https://images.pexels.com/photos/14936128/pexels-photo-14936128.jpeg?cs=srgb&dl=pexels-ann-h-14936128.jpg&fm=jpg');
+    color: white;
+    padding: 20px;
+    text-align: center;}
+
+.section-resume {
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;}
+
+.section-contact {
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align: left;}
